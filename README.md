@@ -83,6 +83,5 @@ This practical helped me understand how a machine learning model learns relation
 
 This is just the beginning of my Machine Learning practical journey. 
 
-Next: **Logistic Regression — Practical 02**
 
-#MachineLearning #LinearRegression #DataScience #Python #ArtificialIntelligence #ScikitLearn #MachineLearningJourney #LearningByDoing
+## #MachineLearning #LinearRegression #DataScience #Python #ArtificialIntelligence #ScikitLearn #MachineLearningJourney #LearningByDoing
